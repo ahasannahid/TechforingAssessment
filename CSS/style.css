@@ -1,0 +1,40 @@
+.navbar-bg {
+    background-color: #182F59;
+}
+.logo{
+    height: 40px;
+    width: 30px;
+}
+.nav-font-color {
+    color: white;
+    text-decoration: none;
+}
+
+.job-position:hover {
+    border: 1px solid gray;
+}
+
+.btn-Sign-up {
+    background: #5BBC2E;
+}
+
+.tech-life {
+    color: #5BBC2E;
+}
+
+.gallery-font {
+    color: #182F59;
+}
+
+.h-200 {
+    height: 200px;
+}
+.h-400{
+    height: 400px;
+}
+.h{
+    height: 600px;
+}
+.footer-text:hover{
+    color: #182F59;
+}
